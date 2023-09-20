@@ -6,7 +6,7 @@
 	Review Status: REVIEWED - any changes to this file must be reviewed!
 
 ***************************************************************************/
-#include "bren.h"
+#include "../BREN/INC/BREN.H"
 ASSERTNAME
 
 RTCLASS(ZBMP)

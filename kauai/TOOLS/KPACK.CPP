@@ -10,7 +10,7 @@
 
 ***************************************************************************/
 #include <stdio.h>
-#include "frame.h"
+#include "../../kauai/SRC/FRAME.H"
 ASSERTNAME
 
 bool _FGetLwFromSzs(PSZS pszs, long *plw);

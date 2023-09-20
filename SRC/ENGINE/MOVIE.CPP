@@ -26,7 +26,7 @@ Actors, Text boxes, etc.
 
 ***************************************************************************/
 
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 #define krScaleMouseRecord BR_SCALAR(0.20)

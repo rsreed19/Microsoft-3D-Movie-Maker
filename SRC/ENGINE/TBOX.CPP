@@ -12,7 +12,7 @@
 //
 //  This file contains all functionality for text box manipulation.
 //
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 RTCLASS(TBOX)

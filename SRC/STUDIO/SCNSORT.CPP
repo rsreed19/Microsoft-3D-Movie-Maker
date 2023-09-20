@@ -10,7 +10,7 @@
 
 ************************************************************ PETED ***********/
 
-#include "studio.h"
+#include "../../INC/STUDIO.H"
 
 ASSERTNAME
 

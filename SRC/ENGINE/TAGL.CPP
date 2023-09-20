@@ -12,7 +12,7 @@
 	then by	CTG, then by CNO.
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 RTCLASS(TAGL)

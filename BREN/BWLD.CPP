@@ -17,7 +17,7 @@
 	full view resolution.
 
 ***************************************************************************/
-#include "bren.h"
+#include "../BREN/INC/BREN.H"
 
 // REVIEW *****: _pgptStretch is completely unused...remove it!
 

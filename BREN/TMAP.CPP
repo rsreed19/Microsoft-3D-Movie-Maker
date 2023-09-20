@@ -3,7 +3,7 @@
 	Texture map (br_pixmap wrapper) class
 
 ***************************************************************************/
-#include "bren.h"
+#include "../BREN/INC/BREN.H"
 
 ASSERTNAME
 

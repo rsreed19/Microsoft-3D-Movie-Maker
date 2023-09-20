@@ -38,7 +38,7 @@
 	short names.
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 RTCLASS(TAGM)

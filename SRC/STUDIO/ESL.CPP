@@ -17,7 +17,7 @@
 	and implement _FAcceptChanges() to do the right thing.
 
 ***************************************************************************/
-#include "studio.h"
+#include "../../INC/STUDIO.H"
 ASSERTNAME
 
 const long kcchMaxTdt = 50; // max length of a spletter

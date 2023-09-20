@@ -18,7 +18,7 @@
 	
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 const CHID kchidPath = 0;

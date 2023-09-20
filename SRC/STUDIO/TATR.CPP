@@ -12,7 +12,7 @@
 	playback only.
 
 ***************************************************************************/
-#include "studio.h"
+#include "../../INC/STUDIO.H"
 ASSERTNAME
 
 RTCLASS(TATR)

@@ -10,7 +10,7 @@
 //
 //  This file contains all functionality for movie manipulation.
 //
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 //

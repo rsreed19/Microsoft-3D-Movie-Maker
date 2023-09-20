@@ -12,7 +12,7 @@
 #ifndef CHELP_H
 #define CHELP_H
 
-#include "kidframe.h"
+#include "../../kauai/SRC/KIDFRAME.H"
 #include "chelpexp.h"
 #include "chelpres.h"
 

@@ -38,7 +38,7 @@
 	      +---ZBMP (chid 0)
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 RTCLASS(BKGD)

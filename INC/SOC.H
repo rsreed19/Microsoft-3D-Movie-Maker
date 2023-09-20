@@ -12,7 +12,7 @@
 #ifndef SOC_H
 #define SOC_H
 
-#include "frame.h"
+#include "../kauai/SRC/FRAME.H"
 #include "socdef.h"
 #include "socutil.h"
 #include "tagman.h"

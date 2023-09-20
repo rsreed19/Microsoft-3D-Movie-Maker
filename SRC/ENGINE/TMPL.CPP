@@ -63,7 +63,7 @@
 	be CMID 0 for the shirt, 2 for the pants, and 5 for the head.
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 RTCLASS(ACTN)

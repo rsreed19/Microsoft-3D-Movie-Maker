@@ -22,7 +22,7 @@
 	An MSND chunk with _fInvalid set requires no child.
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 #include "audioman.h"
 
 ASSERTNAME

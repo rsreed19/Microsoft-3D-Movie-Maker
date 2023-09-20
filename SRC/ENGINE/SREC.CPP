@@ -9,7 +9,7 @@
 	Review Status: reviewed
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 
 ASSERTNAME
 

@@ -9,7 +9,7 @@
 	Routines to export help topics to chomp input format.
 
 ***************************************************************************/
-#include "kidframe.h"
+#include "../../kauai/SRC/KIDFRAME.H"
 #include "chelpexp.h"
 ASSERTNAME
 

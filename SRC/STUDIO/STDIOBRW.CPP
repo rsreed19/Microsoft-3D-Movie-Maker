@@ -47,7 +47,7 @@ of the CD content.
 
 ***************************************************************************/
 
-#include "soc.h"
+#include "../../INC/SOC.H"
 #include "studio.h"
 
 ASSERTNAME

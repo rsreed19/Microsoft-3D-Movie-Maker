@@ -108,8 +108,8 @@
 	_dxyzRte combines the overall actor translation for efficiency only.
 																								
 ***************************************************************************/
-#include "frame.h"
-#include "soc.h"
+#include "../../kauai/SRC/FRAME.H"
+#include "../../INC/SOC.H"
 
 ASSERTNAME
 

@@ -11,8 +11,8 @@
 
 ***************************************************************************/
 #include <stdio.h>
-#include "util.h"
-#include "mssio.h"
+#include "../../kauai/SRC/util.h"
+#include "../../kauai/SRC/mssio.h"
 #include "chelpexp.h"
 ASSERTNAME
 

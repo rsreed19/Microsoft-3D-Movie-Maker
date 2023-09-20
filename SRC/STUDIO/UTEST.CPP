@@ -16,8 +16,8 @@
 	It also is used to display a splash screen, and to find AVIs on the CD.
 
 ***************************************************************************/
-#include "studio.h"
-#include "socres.h"
+#include "../../INC/STUDIO.H"
+#include "../../INC/socres.h"
 #include "mminstal.h"
 
 ASSERTNAME

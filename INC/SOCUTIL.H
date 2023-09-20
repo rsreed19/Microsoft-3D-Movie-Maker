@@ -16,7 +16,7 @@
 
 extern "C"
 	{
-	#include "brender.h"
+	#include "../BREN/INC/brender.h"
 	};
 
 typedef class ACTR *PACTR;

@@ -9,7 +9,7 @@
 	Review Status: REVIEWED - any changes to this file must be reviewed!
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 RTCLASS(MODL)

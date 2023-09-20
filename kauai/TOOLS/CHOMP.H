@@ -14,8 +14,8 @@
 #define CHOMP_H
 
 #include <stdio.h>
-#include "frame.h"
-#include "mssio.h"
+#include "../../kauai/SRC/FRAME.H"
+#include "../../kauai/SRC/mssio.h"
 
 #endif //!CHOMP_H
 

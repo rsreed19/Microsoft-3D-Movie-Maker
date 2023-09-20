@@ -114,7 +114,7 @@
 
 ***************************************************************************/
 
-#include "sitobren.h"
+#include "../INC/SITOBREN.H"
 ASSERTNAME
 
 #ifdef DEBUG

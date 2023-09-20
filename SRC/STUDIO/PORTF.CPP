@@ -9,7 +9,7 @@
 	Review Status: peted has reviewed. Final version not yet approved.
 
 ***************************************************************************/
-#include "studio.h"
+#include "../../INC/STUDIO.H"
 #include "commctrl.h"
 
 ASSERTNAME

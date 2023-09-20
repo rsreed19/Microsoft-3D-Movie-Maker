@@ -21,7 +21,7 @@
 	costume changer easel.
 
 ***************************************************************************/
-#include "studio.h"
+#include "../../INC/STUDIO.H"
 ASSERTNAME
 
 #define kdtimFrame (kdtimSecond / kfps) // clock ticks per frame

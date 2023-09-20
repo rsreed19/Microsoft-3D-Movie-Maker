@@ -12,9 +12,9 @@
 
 ***************************************************************************/
 #include <stdio.h>
-#include "frame.h"
-#include "bren.h"
-#include "mssio.h"
+#include "../kauai/SRC/FRAME.H"
+#include "../BREN/INC/BREN.H"
+#include "../kauai/SRC/mssio.h"
 ASSERTNAME
 
 

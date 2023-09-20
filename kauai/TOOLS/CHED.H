@@ -12,7 +12,7 @@
 #ifndef CHED_H
 #define CHED_H
 
-#include "kidframe.h"
+#include "../../kauai/SRC/KIDFRAME.H"
 #include "chedres.h"
 
 

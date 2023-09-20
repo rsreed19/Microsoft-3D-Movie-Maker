@@ -37,7 +37,7 @@
 	a problem.
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 RTCLASS(TDT)

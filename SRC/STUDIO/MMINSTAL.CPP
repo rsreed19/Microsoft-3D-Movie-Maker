@@ -40,14 +40,14 @@
 
 ******************************************************************************/
 
-#include "studio.h"
+#include "../../INC/STUDIO.H"
 #include <mmsystem.h>   // winmm.lib
 #include <mmreg.h>      // required by msacm.h
 #include <msacm.h>      // msacm32.lib
 #include <vfw.h>        // vfw32.lib
 
 #include "mminstal.h"
-#include "utestres.h"	
+#include "../../INC/utestres.h"	
 
 /******************************************************************************
 

@@ -20,7 +20,7 @@
 	under the TDF.
 
 ***************************************************************************/
-#include "soc.h"
+#include "../INC/SOC.H"
 #include "tdfmake.h"
 ASSERTNAME
 

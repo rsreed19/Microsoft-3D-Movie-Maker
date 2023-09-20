@@ -111,7 +111,7 @@
 	instead of working backwards from the BACT's material field.
 
 ***************************************************************************/
-#include "soc.h"
+#include "../../INC/SOC.H"
 ASSERTNAME
 
 RTCLASS(BODY)

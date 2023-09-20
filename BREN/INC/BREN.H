@@ -9,7 +9,7 @@
 #ifndef BREN_H
 #define BREN_H
 
-#include "kidframe.h"
+#include "../../kauai/SRC/KIDFRAME.H"
 #include "brender.h"
 
 typedef br_actor BACT;
